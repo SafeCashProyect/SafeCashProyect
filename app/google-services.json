@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "953841401707",
+    "project_id": "screen-914fb",
+    "storage_bucket": "screen-914fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953841401707:android:04137560d9991a0b2a562e",
+        "android_client_info": {
+          "package_name": "com.example.screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-kU8yMgTw3w5Pl86FoIVPusZpgmKAUWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
