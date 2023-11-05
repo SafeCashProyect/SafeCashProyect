@@ -16,7 +16,7 @@ class LoginMVVM: ViewModel() {
     val registerSuccess:LiveData<Boolean> =_registerSuccess
 
     private  val userRepository = UserRepository()
-
+//para poder realizar las validaciones de los parametros de entrada de register
     fun validateFields(email: String, password: String) {
         if(email.isEmpty()|| password.isEmpty()){
             _errorMsg.value ="Debe llenar todos los campos"
