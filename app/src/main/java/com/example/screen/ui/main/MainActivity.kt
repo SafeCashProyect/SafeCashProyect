@@ -9,7 +9,7 @@ import androidx.navigation.ui.setupActionBarWithNavController
 import androidx.navigation.ui.setupWithNavController
 import com.example.screen.R
 import com.example.screen.databinding.ActivityMainBinding
-
+//Primer commit
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
